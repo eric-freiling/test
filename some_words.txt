@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 this is line 1 of a test!
 this line was added locally
-=======
-this is line 1 of a test.
-this line was added on a browser
->>>>>>> 2df66bb2f4c947a0e2f798cd88f45a5247b2cc2c
